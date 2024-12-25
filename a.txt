@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 welcome
+=======
+pranathi
+>>>>>>> a768976d5378fad7bbeeced301e4e0b8835ced56
